@@ -282,8 +282,7 @@ public class EmployeeAction extends ActionBase {
 
         } else {
 
-            return true;
-        }
+            return true;        }
 
     }
 
